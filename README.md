@@ -1,1 +1,5 @@
-# CS101-version-control-827
+# My CS Profile
+
+## About Me
+- Name: Chonmaphum homyen
+- Major: Computer Science
