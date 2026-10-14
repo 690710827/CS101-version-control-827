@@ -9,6 +9,10 @@
 - Learn Git and GitHub
 - Build a personal website
 
+## Technology Interests
+- Artificial Intelligence
+- Web Development
+
 ## Skills
 - Problem solving
 - C basics
