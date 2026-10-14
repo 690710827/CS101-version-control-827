@@ -8,3 +8,7 @@
 - Learn C programming
 - Learn Git and GitHub
 - Build a personal website
+
+## Technology Interests
+- Artificial Intelligence
+- Web Development
